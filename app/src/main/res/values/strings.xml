@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Skillz</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="title_activity_jobs">JobsActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="name">Name</string>
+    <string name="link_to_login">Already Registered. Login Me!</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="find_job">Find Job</string>
+    <string name="post_job">Post Job</string>
+    <string name="logout">Logout</string>
+    <string name="details">User Profile</string>
+    <string name="content_authority">com.dev.dany.skillz.app</string>
+    <string name="title_activity_job_post">JobPostActivity</string>
+    <string name="post">Post</string>
+    <string name="job_title">Job\'s Title</string>
+    <string name="job_desc">Job\'s Description</string>
+    <string name="req_skill">Required Skill</string>
+    <string-array name="skill_set">
+        <item>PHP</item>
+        <item>Android</item>
+        <item>ASP.Net</item>
+        <item>Java</item>
+        <item>C++</item>
+        <item>C#</item>
+    </string-array>
+    <string name="title_activity_user_detail">UserDetailActivity</string>
+    <string name="address">Location</string>
+    <string name="skills">Skills</string>
+    <string name="self_description">Self Description</string>
+    <string name="edit">Edit</string>
+
+</resources>

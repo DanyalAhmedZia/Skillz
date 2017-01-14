@@ -1,0 +1,9 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:id="@+id/jobs_container"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:name="com.dev.dany.skillz.JobsFragment"
+             tools:context="com.dev.dany.skillz.JobsActivity"
+             tools:ignore="MergeRootFrame"
+             tools:layout = "@android:layout/list_content"/>
